@@ -1,0 +1,10 @@
+<?php
+    define('USERNAME', 'web-username');
+    define('PASSWORD', 'web-password');
+
+    date_default_timezone_set('America/Chicago');
+    define('DB_HOST', 'db-host');
+    define('DB_USER', 'db-username');
+    define('DB_PASSWORD', 'db-password');
+    define('DB_NAME', 'db-name');
+?>

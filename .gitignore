@@ -1,0 +1,14 @@
+*.gif
+*.jpg
+*.png
+*.swf
+*.txt
+._*
+.htaccess
+text_archive
+vintage_html
+portal
+error
+cantdraw
+frontpage.html
+global_vars.php
